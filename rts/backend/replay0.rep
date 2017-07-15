@@ -1,0 +1,7 @@
+ 4 "CmdRandomSeed"  0  0  -1  0 
+ 96236396 
+ "CmdGenerateMap"  1  1  -1  1 
+ 0  200 
+ "CmdGameStart"  2  2  -1  2 
+ "CmdGenerateUnit"  3  3  -1  3 
+ 
